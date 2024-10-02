@@ -1,4 +1,4 @@
-# E-Commerce Dashboard
+# E-Commerce Dashboard ✨
 
 This dashboard provides an analysis of e-commerce data, including product categories and customer transactions.
 
@@ -12,5 +12,6 @@ This dashboard provides an analysis of e-commerce data, including product catego
 
 ## Run streamlit app
 
+1. Run your streamlit 
 ```bash
    streamlit run ecommerce.py
