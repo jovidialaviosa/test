@@ -12,6 +12,7 @@ This dashboard provides an analysis of e-commerce data, including product catego
 
 ## Run streamlit app
 
-1. Run your streamlit 
-```bash
+1. Run your streamlit
+ 
+   ```bash
    streamlit run ecommerce.py
