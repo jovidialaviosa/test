@@ -1,10 +1,11 @@
-# Bicycle Dashboard ✨
+# Bicycle Dashboard 🚴🏻‍♀️
 
 ## Setup
 
-   Install the necessary libraries:
+   Install libraries
    ```bash
-   pip install streamlit pandas matplotlib seaborn
+   pip install numpy pandas matplotlib seaborn streamlit
+
 
 ## Run streamlit app
  
